@@ -604,7 +604,7 @@ class Constructent_Shortcodes_Frontend
 					</div>
 					<div class="testimonial-des">
 						<span class="name-author"><i class="fa fa-quote-left"></i> %s</span>
-						<span class="regency-author"> %s </span>
+						<span class="regency-author">( %s )</span>
 					</div>
 					<div class="testimonial-text">%s</div>
 				</div>',
